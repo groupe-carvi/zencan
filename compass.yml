@@ -1,0 +1,16 @@
+name: zencan
+id: ari:cloud:compass:e489ce12-950f-402e-8d4e-940f40450fe5:component/d3e19302-71bb-4ac1-ba88-53bb212819ec/4dfa50be-45c2-4ae8-a069-51eacb08c25b
+description: A CANOpen stack for Rust
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/groupe-carvi/zencan
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
